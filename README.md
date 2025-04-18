@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola 👋, me llamo David.
 
-<!--
-**Dmm91/Dmm91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer
 
-Here are some ideas to get you started:
+- 🔭 Proyecto actual RetroVinyl
+- 📫 Correo electrónico moya91.dmm@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conecta conmigo:
+https://www.linkedin.com/in/david-moya-781339357/
+
+Lenguajes de Programación y Herramientas:
+bootstrap css3 flask git html5 javascript jest postgresql postman python react
+
+
