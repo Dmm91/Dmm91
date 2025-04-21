@@ -1,6 +1,6 @@
 ## Hola 👋, me llamo David.
 
-<h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h3>
+<h3 align="center" class="heading-element" dir="auto">Full Stack Developer</h3>
 
 - 🔭 Proyecto actual RetroVinyl
 - 📫 Correo electrónico moya91.dmm@gmail.com
