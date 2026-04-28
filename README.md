@@ -1,5 +1,4 @@
-[![Typing SVG](https://demolab.com(%22Hola+👋%22);System.out.println(%22Me+llamo+David+😊%22))](https://git.io/typing-svg)
-
+## Hola 👋, me llamo David.
 <h3 align="center" class="heading-element" dir="auto">Full Stack Developer</h3>
 
 - 🔭 Proyecto actual RetroVinyl
